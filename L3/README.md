@@ -14,8 +14,8 @@
 + Для выполнения первого задания на Scala откройте файл ```./flink-training-exercises/src/main/scala/com/ververica/flinktraining/exercises/datastream_scala/basics/RideCleansingExercise.scala```. В месте решения вы найдёте ```throw new MissingSolutionException()```.
 + Запустите тест ```./flink-training-exercises/src/test/java/com/ververica/flinktraining/exercises/datastream_java/basics/RideCleansingScalaTest.java```. Тест должен завершиться успешно, но сама программа будет завершаться аварийно с исключением ```MissingSolutionException```.
 
-## Результаты выполнения
-+ **Блок кода RideCleanisingExercise**
+# Результаты
+## Блок кода RideCleanisingExercise
 
 ```scala
 object RideCleansingExercise extends ExerciseBase {
@@ -46,10 +46,10 @@ object RideCleansingExercise extends ExerciseBase {
 
 }
 ```
-+ **Результат теста блока**
+### **Результат теста блока**
 ![RideCleanisingExercise](/L3/images/RideCleanisingExercise.png)
 
-+ **Блок кода RidesAndFaresExercise**
+## Блок кода RidesAndFaresExercise
 
 ```scala
 object RidesAndFaresExercise {
@@ -116,10 +116,10 @@ object RidesAndFaresExercise {
 
 }
 ```
-+ **Результат теста блока**
+### **Результат теста блока**
 ![RidesAndFaresExercise](/L3/images/RidesAndFaresExercise.png)
 
-+ **Блок кода HourlyTipsExerxise**
+## Блок кода HourlyTipsExerxise
 
 ```scala
 object HourlyTipsExercise {
@@ -169,10 +169,10 @@ object HourlyTipsExercise {
     }
   }
 ```
-+ **Результат теста блока**
+### **Результат теста блока**
 ![HourlyTipsExerxise](/L3/images/HourlyTipsExercise.png)
 
-+ **Блок кода ExpiringStateExercise**
+## Блок кода ExpiringStateExercise
 
 ```scala
 object ExpiringStateExercise {
@@ -264,5 +264,5 @@ object ExpiringStateExercise {
   }
 }
 ```
-+ **Результат теста блока**
+### **Результат теста блока**
 ![ExpiringStateExercise](/L3/images/ExpiringStateExercise.png)
