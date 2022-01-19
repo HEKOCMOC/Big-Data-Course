@@ -46,7 +46,7 @@ object RideCleansingExercise extends ExerciseBase {
 }
 ```
 + **Результат теста блока**
-![RideCleanisingExercise](/images/RideCleanisingExercise.png)
+![RideCleanisingExercise](/L3/images/RideCleanisingExercise.png)
 
 + **Блок кода RidesAndFaresExercise**
 
@@ -116,7 +116,7 @@ object RidesAndFaresExercise {
 }
 ```
 + **Результат теста блока**
-![RidesAndFaresExercise](/images/RidesAndFaresExercise.png)
+![RidesAndFaresExercise](/L3/images/RidesAndFaresExercise.png)
 
 + **Блок кода HourlyTipsExerxise**
 
@@ -169,7 +169,7 @@ object HourlyTipsExercise {
   }
 ```
 + **Результат теста блока**
-![HourlyTipsExerxise](/images/HourlyTipsExercise.png)
+![HourlyTipsExerxise](/L3/images/HourlyTipsExercise.png)
 
 + **Блок кода ExpiringStateExercise**
 
@@ -264,4 +264,4 @@ object ExpiringStateExercise {
 }
 ```
 + **Результат теста блока**
-![ExpiringStateExercise](/images/ExpiringStateExercise.png)
+![ExpiringStateExercise](/L3/images/ExpiringStateExercise.png)
