@@ -6,6 +6,13 @@
 + HourlyTipsExerxise
 + ExpiringStateExercise
 
+## Начало работы
++ git clone ```https://github.com/ververica/flink-training-exercises```
++ Откройте проект в IntelliJ IDEA
++ Перед выполнением заданий укажите путь к данным в переменных pathToRideData и pathToFareData в файле ```./flink-training-exercises/src/main/java/com/ververica/flinktraining/exercises/datastream_java/utils/ExerciseBase.java```
++ Для выполнения первого задания на Scala откройте файл ```./flink-training-exercises/src/main/scala/com/ververica/flinktraining/exercises/datastream_scala/basics/RideCleansingExercise.scala```. В месте решения вы найдёте ```throw new MissingSolutionException()```.
++ Запустите тест ```./flink-training-exercises/src/test/java/com/ververica/flinktraining/exercises/datastream_java/basics/RideCleansingScalaTest.java```. Тест должен завершиться успешно, но сама программа будет завершаться аварийно с исключением ```MissingSolutionException```.
+
 ## Результаты выполнения
 + **Блок кода RideCleanisingExercise**
 
