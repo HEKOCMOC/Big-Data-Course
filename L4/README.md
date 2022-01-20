@@ -69,3 +69,18 @@ Process finished with exit code 0
 ```
 2. Реализуйте двуфазный коммит протокол для high-available регистр <br/>
 Результат выполнения:
+```python
+Waiting others clients: []
+Client 1 request abort
+Client 3 request commit
+Client 0 request abort
+Client 2 request abort
+Client 4 request commit
+Check clients
+Client 0 do abort
+Client 1 do abort
+Client 2 do abort
+Client 3 do abort
+Client 4 do abort
+Waiting others clients: []
+```
