@@ -25,3 +25,47 @@
 ## Запуск интерактивной сессии ZooKeeper CLI, освоение команд
 
 ## Разработка, запуск и проверка работы приложения
+1. Решите проблему обедающих философов <br/>
+Результат выполнения :
+```scala
+Philosopher 2 is going to eat
+Philosopher 1 is going to eat
+Philosopher 0 is going to eat
+Philosopher 0 picked up the left fork
+Philosopher 0 picked up the right fork
+Philosopher 0 put the right fork
+Philosopher 1 picked up the left fork
+Philosopher 1 picked up the right fork
+Philosopher 0 put the loft fork and finished eating
+Philosopher 0 is thinking
+Philosopher 2 picked up the left fork
+Philosopher 1 put the right fork
+Philosopher 1 put the loft fork and finished eating
+Philosopher 2 picked up the right fork
+Philosopher 1 is thinking
+Philosopher 0 is going to eat
+Philosopher 1 is going to eat
+Philosopher 0 picked up the left fork
+Philosopher 2 put the right fork
+Philosopher 0 picked up the right fork
+Philosopher 2 put the loft fork and finished eating
+Philosopher 2 is thinking
+Philosopher 1 picked up the left fork
+Philosopher 0 put the right fork
+Philosopher 1 picked up the right fork
+Philosopher 0 put the loft fork and finished eating
+Philosopher 0 is thinking
+Philosopher 1 put the right fork
+Philosopher 1 put the loft fork and finished eating
+Philosopher 1 is thinking
+Philosopher 2 is going to eat
+Philosopher 2 picked up the left fork
+Philosopher 2 picked up the right fork
+Philosopher 2 put the right fork
+Philosopher 2 put the loft fork and finished eating
+Philosopher 2 is thinking
+
+Process finished with exit code 0
+```
+2. Реализуйте двуфазный коммит протокол для high-available регистр <br/>
+Результат выполнения:
