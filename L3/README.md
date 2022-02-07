@@ -1,6 +1,6 @@
 # Лабораторная работа №3 - Потоковая обработка в Apache Flink
 ## Задание
-Выполнить следующие задания из набора заданий репозитория https://github.com/ververica/flink-training-exercises: <br/>
+Выполнить тесты для набора заданий [данного репозитория](https://github.com/ververica/flink-training-exercises): <br/>
 + RideCleanisingExercise
 + RidesAndFaresExercise
 + HourlyTipsExerxise
